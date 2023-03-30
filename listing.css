@@ -1,0 +1,124 @@
+/* header */
+.btn-primary{
+    color:aqua;
+}
+
+/* main content */
+#maincontent{
+    display:inline-block;
+    width:85%;
+    margin-left:7.5%;
+    margin-top:2%;
+    /* border:5px solid rgb(142, 128, 128); */
+}
+.small{
+    width:20%;
+    height:600px;
+    float:left;
+    border:4px solid gray;
+}
+.small h1{
+    text-align:center;
+}
+.small hr{
+    border-top:1px solid rgb(232, 219, 195);
+}
+.small p{
+    text-align:center;
+    font-size:15px;
+}
+.filter{
+    width:90%;
+    height:400px;
+    margin-left:5%;
+    margin-top:6%;
+    /* border:4px solid orange; */
+}
+#restcontent{
+    margin-top:-1%;
+    width:70%;
+    height:700px;
+    margin-left:7%;
+    /* border:3px solid orange; */
+    float:left;
+}
+.upperdiv{
+    display:flex;
+    height:325px;
+    width:100%;
+    /* border:1px solid red; */
+}
+.img{
+    width:45%;
+    height:275px;
+    border-radius:5%;
+    float:left;
+}
+.text{
+    margin-left:1%;
+    width:55%;
+    height:325px;
+    /* background-color:black; */
+    /* border:1px solid green; */
+}
+.context{
+    width:100%;
+    height:170px;
+    /* border:1px solid rgb(223, 212, 212); */
+}
+.context h1{
+    color:rgb(50, 184, 152);
+    margin-left:2%;
+    margin-top:2%;
+}
+.click{
+    width:100%;
+    height:130px;
+    /* border:1px solid rgb(178, 66, 66); */
+}
+.lowerdiv{
+    height:325px;
+    width:100%;
+    /* border:1px solid blue;  */
+}
+.sitext{
+    float:left;
+    height:170px;
+    width:55%;
+    /* border:1px solid yellow; */
+}
+.texta{
+    width:98%;
+    margin-left:1%;
+    height:170px;
+    /* border:2px solid black; */
+}
+.texta h1{
+    color:rgb(55, 158, 158);
+}
+.texta p{
+    margin-left:2%;
+}
+footer{
+    width:100%;
+    background-color:#3b2632;
+    text-align:center;
+    color:white;
+}
+.foottext{
+    font-size:20px;
+}
+ul{
+    list-style-type:none;
+}
+.footDiv{
+    display:inline-block;
+    width:32%;
+    border-right:2px solid white;
+}
+.noBorder{
+    border:none;
+}
+.sociallogo{
+    height:40px;
+}
